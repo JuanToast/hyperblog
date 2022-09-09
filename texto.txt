@@ -2,3 +2,5 @@ Este es un texto
 En dónde meto letras.
 
 Quiero aprender a escribir en Vim, podré hacer un blog desde la terminal?
+
+¿Debería intentar desde ya hacer mi pagina web/hoja de vida?
